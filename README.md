@@ -37,6 +37,8 @@ O layout da aplicação está disponível no Figma:
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Neon" title="#Neon" src="img/group-1.jpg" width="400px">
+  <img alt="Neon" title="#Neon" src="img/"group-3.jpg" width="400px">
+</p>
 </p>
 
 ## 🛠 Tecnologias
