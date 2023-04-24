@@ -8,13 +8,8 @@
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dozreis/redesign-neon">
-
   <img alt="Repository Size" src="https://img.shields.io/github/repo-size/dozreis/redesign-neon">
-
-  <img alt="License" src="https://img.shields.io/github/license/dozreis/projeto-blizzard?color=%2300AEFF">
-   <a href="https://github.com/tgmarinho/nlw1/stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/dozreis/redesign-neon?style=social">
-  </a>
+  <img alt="Stars" src="https://img.shields.io/github/stars/dozreis/redesign-neon?style=social">
 </p>
 
 
@@ -35,14 +30,13 @@ O layout da aplicação está disponível no Figma:
 ### Mobile
 
 <p align="center">
-  <img alt="Blizzard" title="#Blizzard" src="./img/group-0.jpg" width="200px">
-
+  <img alt="Neon" title="#Neon" src="./img/group-0.jpg" width="200px">
 </p>
 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Blizzard" title="#Blizzard" src="img/group-1.jpg" width="400px">
+  <img alt="Neon" title="#Neon" src="img/group-1.jpg" width="400px">
 </p>
 
 ## 🛠 Tecnologias
